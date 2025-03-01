@@ -23,15 +23,7 @@ To run this project, you need the following Python libraries:
 pip install numpy matplotlib tensorflow torchvision torch
 ```
 
-## Usage
 
-Clone the repository and run the script:
-
-```bash
-git clone https://github.com/yourusername/emnist-classification.git
-cd emnist-classification
-python train.py
-```
 
 ## Model Architecture
 
